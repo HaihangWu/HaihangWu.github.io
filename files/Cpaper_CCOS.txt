@@ -1,0 +1,8 @@
+@inproceedings{sun2018cooperative,
+  title={Cooperative co-evolution with online optimizer selection for large-scale optimization},
+  author={Sun, Yuan and Kirley, Michael and Li, Xiaodong},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={1079--1086},
+  year={2018},
+  organization={ACM}
+}

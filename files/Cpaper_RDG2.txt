@@ -1,0 +1,8 @@
+@inproceedings{sun2018adaptive,
+  title={Adaptive threshold parameter estimation with recursive differential grouping for problem decomposition},
+  author={Sun, Yuan and Omidvar, Mohammad Nabi and Kirley, Michael and Li, Xiaodong},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={889--896},
+  year={2018},
+  organization={ACM}
+}

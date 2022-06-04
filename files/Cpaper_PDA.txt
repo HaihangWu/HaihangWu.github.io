@@ -1,0 +1,8 @@
+@inproceedings{sun2020revisiting,
+  title={Revisiting Probability Distribution Assumptions for Information Theoretic Feature Selection},
+  author={Sun, Yuan and Wang, Wei and Kirley, Michael and Li, Xiaodong and Chan Jeffrey},
+  booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  year={2020},
+  pages={5908--5915},
+  organization={AAAI}
+}

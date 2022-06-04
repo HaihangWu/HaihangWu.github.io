@@ -1,0 +1,8 @@
+@inproceedings{sun2015extended,
+  title={Extended differential grouping for large scale global optimization with direct and indirect variable interactions},
+  author={Sun, Yuan and Kirley, Michael and Halgamuge, Saman Kumara},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={313--320},
+  year={2015},
+  organization={ACM}
+}

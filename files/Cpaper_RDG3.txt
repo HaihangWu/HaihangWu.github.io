@@ -1,0 +1,8 @@
+@inproceedings{sun2019decomposition,
+  title={Decomposition for Large-scale Optimization Problems with Overlapping Components},
+  author={Sun, Yuan and Li, Xiaodong and Ernst, Andreas and Omidvar, Mohammad Nabi},
+  booktitle={IEEE Congress on Evolutionary Computation},
+  pages={326--333},
+  year={2019},
+  organization={IEEE}
+}

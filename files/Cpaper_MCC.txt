@@ -1,0 +1,8 @@
+@inproceedings{sun2017memetic,
+  title={A memetic cooperative co-evolution model for large scale continuous optimization},
+  author={Sun, Yuan and Kirley, Michael and Halgamuge, Saman K},
+  booktitle={Australasian Conference on Artificial Life and Computational Intelligence},
+  pages={291--300},
+  year={2017},
+  organization={Springer}
+}

@@ -1,0 +1,7 @@
+@article{sun2020generalization,
+  title={Generalization of Machine Learning for Problem Reduction: A Case Study on Travelling Salesman Problems},
+  author={Sun, Yuan and Ernst, Andreas and Li, Xiaodong and Weiner, Jake},
+  journal={OR Spectrum},
+  year={2020},
+  publisher={IEEE}
+}

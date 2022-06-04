@@ -1,0 +1,8 @@
+@article{weiner2021solving,
+  title={Solving the Maximum Edge Disjoint Path Problem Using a Modified Lagrangian Particle Swarm Optimisation Hybrid},
+  author={Weiner, Jake and Ernst, Andreas T and Li, Xiaodong and Sun, Yuan and Deb, Kalyanmoy},
+  journal={European Journal of Operational Research},
+  year={2021},
+  doi = {https://doi.org/10.1016/j.ejor.2021.01.009},
+  publisher={Elsevier}
+}

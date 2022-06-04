@@ -1,0 +1,7 @@
+@inproceedings{kenny2019improved,
+  title={An improved merge search algorithm for the constrained pit problem in open-pit mining},
+  author={Kenny, Angus and Li, Xiaodong and Ernst, Andreas T and Sun, Yuan},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={294--302},
+  year={2019}
+}

@@ -1,0 +1,9 @@
+@article{munoz2015algorithm,
+  title={Algorithm selection for black-box continuous optimization problems: A survey on methods and challenges},
+  author={Mu{\~n}oz, Mario A and Sun, Yuan and Kirley, Michael and Halgamuge, Saman K},
+  journal={Information Sciences},
+  volume={317},
+  pages={224--245},
+  year={2015},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{jayasundara2019envirt,
+  title={ENVirT: inference of ecological characteristics of viruses from metagenomic data},
+  author={Jayasundara, Duleepa and Herath, Damayanthi and Senanayake, Damith and Saeed, Isaam and Yang, Cheng-Yu and Sun, Yuan and Chang, Bill C and Tang, Sen-Lin and Halgamuge, Saman K},
+  journal={BMC Bioinformatics},
+  volume={19},
+  number={13},
+  pages={377},
+  year={2019},
+  publisher={Springer}
+}

@@ -1,0 +1,8 @@
+@inproceedings{sun2014selection,
+  title={On the selection of fitness landscape analysis metrics for continuous optimization problems},
+  author={Sun, Yuan and Halgamuge, Saman K and Kirley, Michael and Mu{\~n}oz, Mario A},
+  booktitle={7th International Conference on Information and Automation for Sustainability},
+  pages={1--6},
+  year={2014},
+  organization={IEEE}
+}

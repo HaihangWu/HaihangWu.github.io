@@ -1,0 +1,10 @@
+@article{sun2016quantifying,
+  title={Quantifying Variable Interactions in Continuous Optimization Problems},
+  author={Sun, Yuan and Kirley, Michael and Halgamuge, Saman K},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={21},
+  number={2},
+  pages={249--264},
+  year={2016},
+  publisher={IEEE}
+}

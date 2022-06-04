@@ -1,0 +1,7 @@
+@inproceedings{weiner2020automatic,
+  title={Automatic Decomposition of Mixed Integer Programs for Lagrangian Relaxation Using a Multiobjective Approach},
+  author={Weiner, Jake and Ernst, Andreas and Li, Xiaodong and Sun, Yuan},
+  booktitle={Proceedings of the 2020 Genetic and Evolutionary Computation Conference},
+  pages={263--270},
+  year={2020}
+}

@@ -1,0 +1,7 @@
+@inproceedings{wang2020efficiency,
+  title={On the Efficiency of K-Means Clustering: Evaluation, Optimization, and Algorithm Selection},
+  author={Wang, Sheng and Sun, Yuan and Bao, Zhifeng},
+  booktitle={Proceedings of the VLDB Endowment (PVLDB)},
+  pages={163--175},
+  year={2020}
+}
