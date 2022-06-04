@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haihang Wu"
 title_separator          : "-"
 name                     : &name "Haihang Wu"
-description              : &description "Research Fellow, Monash University"
+description              : &description "PHD student, University of Melbourne"
 url                      : https://haihangwu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaihangWu/HaihangWu.github.io"
@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Haihang Wu"
   avatar           : "profile.png"
-  bio              : "Research Fellow <br/> Mathematics Science <br/> Monash University"
-  location         : "Clayton, AU"
+  bio              : "PHD student <br/> Computer Science <br/> University of Melbourne"
+  location         : "Parkville, AU"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=B49vHtUAAAAJ&hl=en&authuser=1"
-  email            : "yuan.sun@monash.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3YDh014AAAAJ"
+  email            : "haihangw@student.unimelb.edu.au"
   researchgate     : #"https://www.researchgate.net/profile/Yuan_Sun21"
   uri              :
-  bitbucket        : "yuans"
+  bitbucket        : #"haihangw"
   codepen          :
   dribbble         :
   flickr           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0000-0002-5431-1184"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
