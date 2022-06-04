@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yuan Sun completed his PhD in computer science and bachelor’s in applied mathematics. He is a research fellow with the School of Computing and Information Systems at the University of Melbourne, working towards Smarter & Faster Pharma with industrial partners such as CSL Limited. His current research focuses on developing effective machine learning models to enhance traditional optimization techniques such as column generation, Lagrangian relaxation, and (meta)heuristics. <br/>
-<!-- This is my [CV](https://yuansuny.github.io/files/YUANSUN_CV.pdf). -->
-<!-- __For COSC1027/2033 students, a number of research projects is available [here](https://yuansuny.github.io/projects).__ -->
-<!-- for <span style="font-family:Papyrus; font-size:4em;">testing</span> -->
+Haihang Wu is a PHD student with the School of Electrical, Mechanical and Infrastructure Engineering at the University of Melbourne, working towards continual learning and neural architecture search. His current research focuses on developing effective neural growth strategies for online continual learning. He  completed his PhD in computer science and bachelor’s in applied mathematics. 
 
 - - -  
 
@@ -19,26 +16,10 @@ Dr. Yuan Sun completed his PhD in computer science and bachelor’s in applied m
 Research interests 
 ======
 
-Artificial Intelligence, Operations Research, Machine Learning, Black-box Optimization
+Artificial Intelligence, Machine Learning, Computer Vision
 
 - - - 
 
-<!--
-* Machine Learning for combinatorial optimisation 
-  - Optimal solution prediction
-  - Iterative learning for optimisation  
-  - Deep learning for optimisation
-
-* Large-scale Optimisation
-  - Automatic problem reduction
-  - Automatic problem decomposition
-  - Co-operative coevolution
-	
-* Instance space analysis
-  - Understand problem hardness
-  - Automatic algorithm selection
-  - Evaluation and benchmark 
--->
 
 
 
@@ -46,15 +27,8 @@ Artificial Intelligence, Operations Research, Machine Learning, Black-box Optimi
 
 News
 ======
-* [26/02/22] A paper accepted by Computers & Operations Research.
-* [14/02/22] A tutorial on Large-Scale Optimization and Learning was accepted for PPSN 2022. 
-* [01/12/21] A paper accepted to AAAI 2022. 
-* [28/11/21] A workshop [LEOL](https://gecco-2022.sigevo.org/Workshops#LEOL) accepted by GECCO 2022. 
-* [18/11/21] A paper accepted to IEEE ICDE 2022.
-* [22/06/21] Will give a tutorial on large-scale combinatorial optimisation at CEC'21. 
-* [08/06/21] Received Monash University ECR Professional Development Grant. 
-* [10/04/21] A paper accepted by IJCNN. 
-* [05/01/21] A paper accepted to EJOR (JCR Q1, Core Rank A).  
+* [28/01/22] Pass my PHD pre-confirmation meeting.   
+* [06/05/21] Start my PHD Research at University of Melbourne.  
 
 <!---
 * [10/12/20] A paper accepted to SIGMOD (Core Rank A*). 
@@ -79,33 +53,22 @@ News
 
 Teaching 
 ======
-* [2021] Mathematics Learning Centre, Monash University, Tutor 
-* [2020] COSC2123 Algorithms and Analysis, RMIT University, Lecturer 
-* [2019] COSC1027/2033 Evolutionary Computing, RMIT University, Lecturer 
-* [2017] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Head Tutor 
-* [2016] COMP90038 Algorithm and Complexity, Unversity of Melbourne, Tutor 
+* [2022] MCEN90048 Artificial Intelligence for Engineers, Unversity of Melbourne, Tutor 
 
 - - -  
 
-
+<!---
 Supervision
 ======
 * Jake Weiner (PhD, co-supervising with Prof Xiaodong Li and Prof Andreas T. Ernst)
 * Yunzhuang Shen (PhD, co-supervising with Prof Xiaodong Li and Prof Andrew Eberhard)
 * Winton Nathan-Roberts (PhD, co-supervising with Prof Uwe Aickelin and Dr Ling Luo) 
-
+-->
 - - -  
 
 Prizes, honours and awards
 ======
-* 2021, Monash University ECR Professional Development Grant
-* 2020, Nomination for the Best Paper Award at the ACM GECCO conference
-* 2019, Winner of IEEE CEC Competition on Large-Scale Global Optimization
-* 2019, Nomination for the John Melvin Memorial Prize for Best PhD Thesis
-* 2015, Melbourne Abroad Travelling Scholarship, University of Melbourne
-* 2015, Travelling Grant from ACM (Association for Computing Machinery)
-* 2013-2017, Melbourne International Engagement Awards, University of Melbourne
-* 2013-2017, Melbourne International Fee Remission, University of Melbourne
+* 2021-2025, Melbourne Research Scholarship, University of Melbourne
 
 - - -  
 
@@ -114,7 +77,8 @@ Prizes, honours and awards
 
 Other professional activities
 ======
-* I am the Vice-Chair of [IEEE Taskforce on Large-scale Global Optimization](https://www.tflsgo.org).
+* I am an IEEE Member.
+<!---
 * Journal article reviewing: 
   - IEEE Transactions on Evolutionary Computation  
   - IEEE Transactions on Cybernetics
@@ -127,5 +91,6 @@ Other professional activities
   - Special session on large-scale global optimisation at CEC'20 and CEC'21.
   - Tutorial on large-scale optimisation and learning at CEC'20 and CEC'21.
   - Program Committee and/or Reviewer for ICML'22, AAAI'22, ICLR'22, NeurIPS'21, NeurIPS'20, CEC'21, CEC'20, AI'20.  
+-->
 
 
