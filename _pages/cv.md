@@ -11,24 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automotive Engineering, Beihang University, 2010
-* M.S. in Thermal Engineering, Tsinghua University, 2013
-* M.S. in Robotics, University of Bristol, 2020
 * Ph.D in Artificial Intelligence, University of Melbourne, 2024 (expected)
+* M.S. in Robotics, University of Bristol, 2020
+* M.S. in Thermal Engineering, Tsinghua University, 2013
+* B.S. in Automotive Engineering, Beihang University, 2010
 
 Work experience
 ======
-* 2013-2017: Mecahnical Engineer
-  * Dongfang Electric Corporation, China
-  * Duties included: Develop heat exchangers to recover waste heat and reduce emissions
+* 2018-2019: Software Engineer
+  * GuoZhi Robotic Corporation, China
+  * Develop simulation models for automated guided vehicles (AGVs) system  
 
 * 2017-2018: Research Assistant
   * Tsinghua University, China
   * Duties included: Build dynamic mathematical models for Power Plant
   
-* 2018-2019: Software Engineer
-  * GuoZhi Robotic Corporation, China
-  * Develop simulation models for automated guided vehicles (AGVs) system  
+* 2013-2017: Mecahnical Engineer
+  * Dongfang Electric Corporation, China
+  * Duties included: Develop heat exchangers to recover waste heat and reduce emissions
+
   
 Skills
 ======
