@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Haihang Wu is a PHD student with the School of Electrical, Mechanical and Infrastructure Engineering at the University of Melbourne, working towards continual learning and neural architecture search. His current research focuses on developing effective neural growth strategies for online continual learning. He acquires his master degrees in Thermal engineering from Tsinghua University and robotics from University of Bristol, and bachelor in automotive engineering from Beihang University. 
+Haihang Wu is a PHD student with the School of Electrical, Mechanical and Infrastructure Engineering at the University of Melbourne, working towards continual learning and neural architecture search. His current research focuses on developing efficient neural growth strategies for online continual learning. He acquires his master degrees in Thermal engineering from Tsinghua University and robotics from University of Bristol, and bachelor in automotive engineering from Beihang University. 
 
 - - -  
 
