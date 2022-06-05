@@ -16,7 +16,7 @@ Haihang Wu is a PHD student with the School of Electrical, Mechanical and Infras
 Research interests 
 ======
 
-Artificial Intelligence, Machine Learning, Computer Vision
+Machine Learning, Computer Vision, Robotics
 
 - - - 
 
