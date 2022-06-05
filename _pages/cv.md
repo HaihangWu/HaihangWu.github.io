@@ -35,7 +35,7 @@ Skills
 * Programming skills:
   * Python: deep learning and computer vision
   * C++: develop RatSLAM
-  * SQL: develop a simulation model and database for AGVs
+  * SQL: develop database for AGVs
 * Software:
   * ROS, Gazebo: RatSLAM research
   * PyTorch/Caffe: Deep Learning and Computer vision
