@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yuan Sun"
-excerpt: "Yuan Sun"
+title: "Haihang Wu"
+excerpt: "Haihang Wu"
 author_profile: true
 redirect_from: 
   - /about/
