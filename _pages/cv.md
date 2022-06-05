@@ -11,31 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automotive Engineering, Beihang University, 2010
+* M.S. in Thermal Engineering, Tsinghua University, 2013
+* M.S. in Robotics, University of Bristol, 2020
+* Ph.D in Artificial Intelligence, University of Melbourne, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-2017: Mecahnical Engineer
+  * Dongfang Electric Corporation, China
+  * Duties included: Develop heat exchangers to recover waste heat and reduce emissions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Research Assistant
+  * Tsinghua University, China
+  * Duties included: Build dynamic mathematical models for Power Plant
+  
+* 2018-2019: Software Engineer
+  * GuoZhi Robotic Corporation, China
+  * Develop simulation models for automated guided vehicles (AGVs) system  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills:
+  * Python: deep learning and computer vision
+  * C++: develop RatSLAM
+  * SQL: develop a simulation model and database for AGVs
+* Software:
+  * ROS, Gazebo: RatSLAM research
+  * PyTorch/Caffe: Deep Learning and Computer vision
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
