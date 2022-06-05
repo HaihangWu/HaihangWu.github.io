@@ -55,9 +55,9 @@ Teaching
 ======
 * [2022] MCEN90048 Artificial Intelligence for Engineers, Unversity of Melbourne, Tutor 
 
+<!---
 - - -  
 
-<!---
 Supervision
 ======
 * Jake Weiner (PhD, co-supervising with Prof Xiaodong Li and Prof Andreas T. Ernst)
