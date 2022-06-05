@@ -68,7 +68,8 @@ Supervision
 
 Prizes, honours and awards
 ======
-* 2021-2025, Melbourne Research Scholarship, University of Melbourne
+* 2021-2025, Melbourne Research Scholarship, University of Melbourne, Australia
+* 2019-2020, Master with Distinction, University of Bristol, UK
 
 - - -  
 
