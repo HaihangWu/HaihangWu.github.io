@@ -27,6 +27,7 @@ Machine Learning, Computer Vision, Robotics
 
 News
 ======
+* [07/06/22] Pass my PHD confirmation meeting. 
 * [28/01/22] Pass my PHD pre-confirmation meeting.   
 * [06/05/21] Start my PHD Research at University of Melbourne.  
 
