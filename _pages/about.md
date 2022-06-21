@@ -54,6 +54,7 @@ News
 
 Teaching 
 ======
+* [2022] ENGR30004 Numerical Algorithms in Engineerings, Unversity of Melbourne, Tutor 
 * [2022] MCEN90048 Artificial Intelligence for Engineers, Unversity of Melbourne, Tutor 
 
 <!---
