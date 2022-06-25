@@ -83,11 +83,5 @@ Other professional activities
 * Membership: 
   - IEEE Member 
   - ACM Member
-<!---
-* Conference organisation: 
-  - Special session on large-scale global optimisation at CEC'20 and CEC'21.
-  - Tutorial on large-scale optimisation and learning at CEC'20 and CEC'21.
-  - Program Committee and/or Reviewer for ICML'22, AAAI'22, ICLR'22, NeurIPS'21, NeurIPS'20, CEC'21, CEC'20, AI'20.  
--->
 
 
