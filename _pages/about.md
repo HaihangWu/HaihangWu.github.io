@@ -80,17 +80,10 @@ Prizes, honours and awards
 
 Other professional activities
 ======
-* I am an IEEE Member.
-
+* Membership: 
+  - IEEE Member 
+  - ACM Member
 <!---
-* Journal article reviewing: 
-  - IEEE Transactions on Evolutionary Computation  
-  - IEEE Transactions on Cybernetics
-  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
-  - IEEE Computational Intelligence Magazine
-  - Swarm and Evolutionary Computation
-  - Applied Soft Computing
-  - Algorithms
 * Conference organisation: 
   - Special session on large-scale global optimisation at CEC'20 and CEC'21.
   - Tutorial on large-scale optimisation and learning at CEC'20 and CEC'21.
