@@ -70,6 +70,7 @@ Supervision
 
 Prizes, honours and awards
 ======
+* 2022, Doctoral Academy Fellow of Melbourne Centre for Data Science, University of Melbourne, Australia
 * 2021-2025, Melbourne Research Scholarship, University of Melbourne, Australia
 * 2020, Master with Distinction, University of Bristol, UK
 
