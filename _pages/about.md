@@ -79,10 +79,9 @@ Prizes, honours and awards
 
 
 
-Other professional activities
+Professional societies
 ======
-* Membership: 
-  - IEEE Member 
-  - ACM Member
+* Member,Institute of Electrical and Electronics Engineers (IEEE)
+* Member,Association for Computing Machinery (ACM)
 
 
