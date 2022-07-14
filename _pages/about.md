@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Haihang Wu is a PHD student advised by Prof [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo) with department of Mechanical Engineering at the University of Melbourne, working towards continual learning and its application on robotics. His current research focuses on developing efficient neural growth strategies for online continual learning. He acquires his master degrees in Thermal Engineering from Tsinghua University and Robotics from University of Bristol, and bachelor in Automotive Engineering from Beihang University. 
+Haihang Wu is a PHD student advised by Prof [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo) with the Department of Mechanical Engineering at the University of Melbourne, working towards continual learning and its application on robotics. His current research focuses on developing efficient neural growth strategies for online continual learning. He acquires his master degrees in Thermal Engineering from Tsinghua University and Robotics from University of Bristol, and bachelor in Automotive Engineering from Beihang University. 
 
 - - -  
 
