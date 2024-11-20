@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Haihang Wu is a PHD student advised by Prof [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo) with the Department of Mechanical Engineering at the University of Melbourne, working towards efficient machine learning and its applications on continual learning and robotics. His current research focuses on developing efficient neural growth strategies for online continual learning. He acquires his master degrees in Thermal Engineering from Tsinghua University and Robotics from University of Bristol, and bachelor in Automotive Engineering from Beihang University. 
+Haihang Wu is a PHD student advised by Prof [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo) with the Department of Mechanical Engineering at the University of Melbourne, working towards efficient deep learning and robotics. His current research focuses on developing neural growth and neural pruning strategies for efficient deep learning. He acquires his master's degrees in Thermal Engineering from Tsinghua University and Robotics from the University of Bristol, and a bachelor's degree in Automotive Engineering from Beihang University. 
 
 - - -  
 
@@ -27,9 +27,8 @@ Machine Learning, Computer Vision, Robotics
 
 News
 ======
-* [07/06/22] Pass PHD confirmation meeting. 
-* [28/01/22] Pass PHD pre-confirmation meeting.   
-* [06/05/21] Start PHD Research at University of Melbourne.  
+* [01/11/24]  A paper accepted to ACM MM Workshop on Continual Learning. 
+* [20/02/24]  A paper accepted to AAAI 2024. 
 
 <!---
 * [10/12/20] A paper accepted to SIGMOD (Core Rank A*). 
