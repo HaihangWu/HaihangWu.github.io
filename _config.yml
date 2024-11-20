@@ -11,7 +11,7 @@ title                    : "Haihang Wu"
 title_separator          : "-"
 name                     : &name "Haihang Wu"
 description              : &description "PHD student, University of Melbourne"
-url                      : https://haihangwu.github.io
+url                      : https://www.haihangwu.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaihangWu/HaihangWu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
