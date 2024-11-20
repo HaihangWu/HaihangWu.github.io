@@ -1,13 +1,1 @@
----
-excerpt: '
-
-## Journal papers
-
-- - - 
-
-
-
-'
-
----
 
