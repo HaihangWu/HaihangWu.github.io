@@ -1,10 +1,1 @@
----
-excerpt: ' 
 
-## Ph.D thesis
-
-* 
-
-'
-
----
