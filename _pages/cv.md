@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, University of Melbourne, 2024 (expected)
+* Ph.D in Artificial Intelligence, University of Melbourne, 2025
 * M.S. in Robotics, University of Bristol, 2020
 * M.S. in Thermal Engineering, Tsinghua University, 2013
 * B.S. in Automotive Engineering, Beihang University, 2010
