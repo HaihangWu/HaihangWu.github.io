@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in the Department of Mechanical Engineering at the University of Melbourne, under the supervision of Professors [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). My research focuses on efficient deep learning and robotics, specifically on neural growth and pruning strategies. I hold a master’s degree in Thermal Engineering from Tsinghua University, a master’s degree in Robotics from the University of Bristol, and a bachelor’s degree in Automotive Engineering from Beihang University.
+I hold a Ph.D. from the University of Melbourne, where I was jointly supervised by Professors [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). My research focuses on deep learning and robotics. I also hold master’s degrees from Tsinghua University and the University of Bristol, and a bachelor’s degree in Automotive Engineering from Beihang University.
 - - -  
 
 
