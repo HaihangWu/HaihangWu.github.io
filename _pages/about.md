@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on deep learning and robotics. I hold a Ph.D. from the University of Melbourne, where I was jointly supervised by Professors [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). I also hold master’s degrees from Tsinghua University and the University of Bristol, as well as a bachelor’s degree in Automotive Engineering from Beihang University.
+I'm a researcher in deep learning and robotics. I received my Ph.D. degree from the University of Melbourne, advised by Professors [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). Prior to that, I earned master's degrees in Energy and Robotics from Tsinghua University and the University of Bristol, respectively, and a bachelor's degree in Automotive Engineering from Beihang University.
 - - -  
 
 
