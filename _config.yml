@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haihang Wu"
 title_separator          : "-"
 name                     : &name "Haihang Wu"
-description              : &description "PHD student, University of Melbourne"
+description              : &description "University of Melbourne"
 url                      : https://haihangwu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaihangWu/HaihangWu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haihang Wu"
   avatar           : "profile.png"
-  bio              : "PHD student <br/> Computer Science <br/> University of Melbourne"
-  location         : "Parkville, AU"
+  bio              : "University of Melbourne"
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3YDh014AAAAJ"
-  email            : "haihangw@student.unimelb.edu.au"
+  email            : "dylan.haihang.wu@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Yuan_Sun21"
   uri              :
   bitbucket        : #"haihangw"
