@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haihang Wu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "University of Melbourne"
   location         : 
   employer         :
@@ -320,3 +320,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
