@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haihang Wu"
+title                    : "Assistant Researcher"
 title_separator          : "-"
 name                     : &name "Haihang Wu"
-description              : &description "University of Melbourne"
+description              : &description "Ningbo Institute of Digital Twin"
 url                      : https://haihangwu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaihangWu/HaihangWu.github.io"
@@ -320,5 +320,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
