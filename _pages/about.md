@@ -8,20 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a researcher in deep learning and robotics. I received my Ph.D. degree from the University of Melbourne, advised by Prof. [Saman Halgamuge](https://findanexpert.unimelb.edu.au/profile/2854-saman-halgamuge) and Prof. [Denny Oetomo](https://findanexpert.unimelb.edu.au/profile/188333-denny-oetomo). Prior to that, I earned master's degrees in Energy and Robotics from Tsinghua University and the University of Bristol, respectively, and a bachelor's degree in Automotive Engineering from Beihang University.
+I am a researcher specializing in Industrial AI, focusing on integrating physics-based simulations with data-driven models to advance system design and control. My work bridges first-principles modeling, such as thermodynamic simulations for power plants and robot kinematics, with modern neural architectures. I aim to develop efficient, trustworthy AI that operates under practical constraints like limited computation, data, and deployment environments.
 - - -  
 
 
 Research interests 
 ======
 
-Machine Learning, Computer Vision, Robotics
+Industrial AI
 
 - - - 
-
-
-
-
 
 
 News
@@ -64,5 +60,6 @@ Professional societies
 ======
 * Member,Institute of Electrical and Electronics Engineers (IEEE)
 * Member,Association for Computing Machinery (ACM)
+
 
 
