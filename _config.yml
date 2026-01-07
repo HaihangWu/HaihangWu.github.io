@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haihang Wu"
   avatar           : "profile.jpg"
-  bio              : "University of Melbourne"
+  bio              : "Ningbo Institute of Digital Twin"
   location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3YDh014AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=l2ydUL4AAAAJ&hl=en"
   email            : "dylan.haihang.wu@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Yuan_Sun21"
   uri              :
@@ -320,4 +320,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
